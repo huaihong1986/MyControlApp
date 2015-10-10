@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyControlApp</string>
+    <string name="title_section1">按键控制</string>
+    <string name="title_section2">商城主页</string>
+    <string name="title_section3">商品列表</string>
+    <string name="network_unavailable">网络不可用</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">示例</string>
+    <string name="action_settings">设置</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/libs/gson-2.2.4.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/volley.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/AppControlApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/adapter/MainListAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/adapter/ProductListAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/adapter/RecycleBin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/adapter/RecyclingPagerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/adapter/VideoPagerAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/config/Config.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/fragment/MainListFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/fragment/ProductFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/ArrayUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/DeviceUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/DisplayUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/GsonUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/ListUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/util/ObjectUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/volley/BitmapCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/volley/VolleyPostRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/volley/VolleyResponseListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/volley/VolleyUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/widget/AutoScrollViewPager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/widget/CustomDurationScroller.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/mycontrolapp/widget/DropDownListView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/default_btn_normal.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/default_btn_pressed.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/default_btn_selector.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/indicator_oval.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/indicator_oval_selected.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/main_list_view_item_selector.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/drop_down_list_footer.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/drop_down_list_header.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_list.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main_video_pager.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_product.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_main_list.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_product_list.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/drop_down_list_arrow.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/base_colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/drop_down_list_attrs.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/drop_down_list_colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/drop_down_list_dimens.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/drop_down_list_strings.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/drop_down_list_styles.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+

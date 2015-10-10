@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppThemeColor" parent="@style/Theme.AppCompat">
+        <item name="actionBarStyle">@style/BaseActionBarStyle</item>
+        <item name="popupMenuStyle">@style/BaseActionBarStyle.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">@style/BaseActionBarStyle.PopupMenu</item>
+
+        <item name="actionBarTabTextStyle">@style/BaseActionBarStyle</item>
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="BaseActionBarStyle" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="background">@color/light_aqua</item>
+        <item name="titleTextStyle">@style/BaseActionBarTitleStyle</item>
+    </style>
+
+    <style name="BaseActionBarStyle.PopupMenu" parent="@style/Widget.AppCompat.Light.PopupMenu">
+        <item name="android:popupBackground">@color/light_aqua</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BaseActionBarTitleStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

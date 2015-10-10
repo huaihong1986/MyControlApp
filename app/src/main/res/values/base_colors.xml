@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_dialog_title_text_color">@color/white</color>
+    <color name="default_dialog_divider_color">@color/light_h_gray</color>
+    <color name="default_dialog_message_color">@color/white</color>
+    <color name="default_dialog_bg">@color/dark_grapefruit</color>
+    <color name="default_dialog_button_text_color">@color/white</color>
+    <color name="default_dialog_btn_pressed_color">@color/dark_grapefruit</color>
+    <color name="default_dialog_btn_normal_color">@color/light_grapefruit</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_l">#9FFFFFFF</color>
+    <color name="transparent_m">#7FFFFFFF</color>
+    <color name="transparent_h">#1FFFFFFF</color>
+
+    <color name="dark_transparent_h">#2F000000</color>
+
+    <color name="light_grapefruit">#FFED5565</color>
+    <color name="dark_grapefruit">#FFDA4453</color>
+    <color name="light_grapefruit_transparent_m">#7FED5565</color>
+
+    <color name="light_bittersweet">#FFFC6E51</color>
+    <color name="dark_bittersweet">#FFE9573F</color>
+
+    <color name="light_sunflower">#FFFFCE54</color>
+    <color name="dark_sunflower">#FFF6BB42</color>
+    <color name="dark_sunflower_alpha">#9FF6BB42</color>
+
+    <color name="light_grass">#FFA0D468</color>
+    <color name="dark_grass">#FF8CC152</color>
+
+    <color name="light_mint">#FF48CFAD</color>
+    <color name="dark_mint">#FF37BC9B</color>
+
+    <color name="light_aqua">#FF4FC1E9</color>
+    <color name="dark_aqua">#FF3BAFDA</color>
+    <color name="dark_aqua_alpha">#7F3BAFDA</color>
+
+    <color name="light_bluejeans">#FF5D9CEC</color>
+    <color name="dark_bluejeans">#FF4A89DC</color>
+    <color name="light_bluejeans_alpha">#BF5D9CEC</color>
+
+    <color name="light_lavender">#FFAC92EC</color>
+    <color name="dark_lavender">#FF967ADC</color>
+
+    <color name="light_pink_rose">#FFEC87C0</color>
+    <color name="dark_pink_rose">#FFD770AD</color>
+
+    <color name="light_l_gray">#FFF5F7FA</color>
+    <color name="dark_l_gray">#FFE6E9ED</color>
+
+    <color name="light_m_gray">#FFCCD1D9</color>
+    <color name="dark_m_gray">#FFAAB2BD</color>
+
+    <color name="light_h_gray">#FF656D78</color>
+    <color name="dark_h_gray">#FF434A54</color>
+
+</resources>
